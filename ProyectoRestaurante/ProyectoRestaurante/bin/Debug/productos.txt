@@ -1,0 +1,4 @@
+Entrada|Frutas|01-E|45
+Sopas|SopaRes|03-SopaRes|10
+Bebida alcoholica|Vino Tinto|22-Vino Tinto|80
+Sopas|Sopa de Caracol|03-Sopa de Caracol|40

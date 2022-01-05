@@ -1,0 +1,5 @@
+cajlsantos|1234|luz|santos|Cajero
+admin|1234|admin|admin|admin
+despmgodoy|2345|consuelo|godoy|Despachador
+despssantos|3456|ana|santos|Despachador
+cajKArriaga|1999|Kevin|Arriaga|Cajero
